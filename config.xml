@@ -1,0 +1,5 @@
+<config>
+  <dsn>dbi:Pg:dbname=mydb</dsn>
+  <username>myuser</username>
+  <password>mypassword</password>
+</config>
